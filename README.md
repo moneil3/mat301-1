@@ -12,12 +12,10 @@ This is *italic* and this is **bold**.
 
 Here are some paragraphs  with a line break (two or more spaces at the end of a line).
 
-Lists:
-1. First
+Lists:  
+1. First  
 2. Second
 
 
-Links:
-
-View the page by [clicking here](http://www.apple.com)
+**Links**:View the page by [clicking here](http://www.apple.com)
 
