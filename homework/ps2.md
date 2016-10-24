@@ -30,7 +30,7 @@ NOTE: The alias does not permenantly rename the column and is only temporary ass
 
 ---
 
-Operators are reserved words used with the `WHERE` clause to perform an operation such as comparisons.  The primary operators are:
+Operators are reserved words used with the ` WHERE` clause to perform an operation such as comparisons.  The primary operators are:
 
 - Comparison operators (e.g., equality)
 - Logical operators (including negation)
