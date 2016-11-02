@@ -3,6 +3,7 @@
 1. Create three tables: Customers, Orders, and OrderItems.
 
 2. Why do we need an OrderItems table?
+***'An order items table is needed because one order may have mutiple products and this cannot be shown in an orders table alone'*** 
 
 3. Create linked tables in MS Access.
 
